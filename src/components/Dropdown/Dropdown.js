@@ -87,13 +87,13 @@ function Dropdown({ isOpen, toggle }) {
         </NavLink>
       </NavMenu>
       <NavBtn onClick={toggle}>
-        <a
+      <a
           className="btn PrimaryBtn"
-          href="https://github.com/gurupawar/"
+          href="https://publuu.com/flip-book/45637/137625/page/1"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Resume
+          Resu
         </a>
       </NavBtn>
     </SiderBar>

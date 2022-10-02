@@ -1,39 +1,22 @@
-// --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_1.png",
-    title: "Spense",
-    description: "Codewell challenge, Spense is a landing page for writers.",
-    tech_stack: "Html, Css, Javascript",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
+    img: "https://ourimagehosting.com/images/2022/10/02/job.png",
+    title: "Job Portal",
+    description: "Complete Job potal site where user can search,apply and track for the job",
+    tech_stack: "Html, Css, Javascript,Reactjs,Nodejs,Expressjs,MongoDB",
+    github_url: "https://github.com/7Nirmal/frontend.git",
+    demo_url: "https://eloquent-crostata-74fbc2.netlify.app",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_2.png",
+    img: "https://ourimagehosting.com/images/2022/10/02/Untitled.png",
     title: "Fiber",
     description:
-      "An online portfolio generator. Great to practice flex/grid layouts, absolute positioning and sliders.",
-    tech_stack: "Html, Css, Javascript",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
+      "Complete Laundry application with user and admin functionality.",
+    tech_stack: "Html, Css, Javascript,Reactjs,Nodejs,Expressjs,MongoDB",
+    github_url: "https://github.com/7Nirmal/laundry-frontend.git",
+    demo_url: "https://lustrous-manatee-b3c5de.netlify.app",
   },
-  {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/portfolio.png",
-    title: "Portfolio",
-    description: "Ofcourse i made my own personal portfolio website.",
-    tech_stack: "Reactjs, Css",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link/",
-  },
-  {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_3.png",
-    title: "Ecommerce website",
-    description:
-      "Created simple ecommerce website using reactjs and react-use-cart plugin.",
-    tech_stack: "Reactjs, Css",
-    github_url: "https://your_project_github_link",
-    demo_url: "https://your_project_demo_link",
-  },
+
 ];
 
 // --------------------------------------- Skills
@@ -60,15 +43,19 @@ export const stackList = [
     name: "Bootstrap",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/sass.svg",
-    name: "Scss",
+    img: "https://www.svgrepo.com/show/303360/nodejs-logo.svg",
+    name: "NodeJs",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/git.svg",
-    name: "Git",
+    img: "https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png",
+    name: "ExpressJS",
+  },  
+  {
+    img: "https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.png",
+    name: "MongoDB",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/skill/responsive.svg",
-    name: "Responsive",
-  },
+    img: "https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png",
+    name: "MySQL",
+  },  
 ];

@@ -37,7 +37,7 @@ function SocialIcon() {
       <ul>
         <li className="item">
           <a
-            href="https://www.linkedin.com/in/your_username/"
+            href="www.linkedin.com/in/nirmal-p-264365215"
             target="_blank"
             rel="noopener noreferrer"
           >
