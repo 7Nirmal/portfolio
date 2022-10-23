@@ -2,7 +2,7 @@ export const ProjectList = [
   {
     img: "https://ourimagehosting.com/images/2022/10/02/job.png",
     title: "Job Portal",
-    description: "Complete Job potal site where user can search,apply and track for the job",
+    description: "Complete Job portal site where user can search,apply and track for the job",
     tech_stack: "Html, Css, Javascript,Reactjs,Nodejs,Expressjs,MongoDB",
     github_url: "https://github.com/7Nirmal/frontend.git",
     demo_url: "https://eloquent-crostata-74fbc2.netlify.app",
