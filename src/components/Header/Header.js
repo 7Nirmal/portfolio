@@ -25,7 +25,7 @@ const Header = ({ toggle }) => {
         <NavBtn>
           <a
             className="btn PrimaryBtn"
-            href="https://publuu.com/flip-book/45637/137625/page/1"
+            href="https://drive.google.com/folderview?id=1O4ZZU5Cv4RUoWXFn0oCKzTNG1pdZuMhJ"
             target="_blank"
             rel="noopener noreferrer"
           >
