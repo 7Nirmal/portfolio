@@ -8,7 +8,7 @@ export const ProjectList = [
     demo_url: "https://eloquent-crostata-74fbc2.netlify.app",
   },
   {
-    img: "https://ourimagehosting.com/images/2022/10/02/Untitled.png",
+    img: "https://i.postimg.cc/Dw7z53Rg/laundry.png",
     title: "Fiber",
     description:
       "Complete Laundry application with user and admin functionality.",
