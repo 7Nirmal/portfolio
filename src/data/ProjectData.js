@@ -1,6 +1,6 @@
 export const ProjectList = [
   {
-    img: "https://ourimagehosting.com/images/2022/10/02/job.png",
+    img: "https://ibb.co/yYBhCnc",
     title: "Job Portal",
     description: "Complete Job portal site where user can search,apply and track for the job",
     tech_stack: "Html, Css, Javascript,Reactjs,Nodejs,Expressjs,MongoDB",
